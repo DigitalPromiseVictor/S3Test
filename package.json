@@ -1,0 +1,10 @@
+{
+  "name": "s3Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Ngo <vngo@digitalpromise.org>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.222.1"
+  }
+}
